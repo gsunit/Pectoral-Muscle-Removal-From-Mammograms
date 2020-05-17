@@ -9,7 +9,4 @@
 A mammogram is an X-ray picture of the breast. Doctors use a mammogram to look for early signs of breast cancer.
 
 ## Algorithm
-<figure>
-  <img src="https://github.com/gsunit/Pectoral-Muscle-Removal-From-Mammograms/blob/master/assets/algorithm-flowchart.png" alt="algorithm-screenshot" height="700"/>
-  <figcaption>Algorithm Flowchart</figcaption>
-</figure>
+<img src="https://github.com/gsunit/Pectoral-Muscle-Removal-From-Mammograms/blob/master/assets/algorithm-flowchart.png" alt="algorithm-screenshot" height="900"/>
