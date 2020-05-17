@@ -26,6 +26,7 @@ The Hough transform is a technique which can be used to isolate features of a pa
 - The parameters for the shortlisting lines have been chosen manually. However, they can be easily learned given a bigger dataset.
 
 > Give me a place to stand, and I shall move the earth. - Archimedes
+
 > Give me more data, and I can learn the parameters. - Me :)
 
 
