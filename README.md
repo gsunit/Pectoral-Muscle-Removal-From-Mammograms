@@ -12,12 +12,9 @@ A mammogram is an X-ray picture of the breast. Doctors use a mammogram to look f
 ```mermaid
 graph LR
 
-A(Start)
+A(Breast Mammogram)
 
-A --> B[Look for an item]
-
-B --> C{Did you find it?}
-C -->|Yes| D(Stop looking)
-C -->|No| E{Do you need it?}
-E -->|Yes| B
-E -->|No| D
+A --> B{Is it right-oriented?}
+B --> |Yes| D(Canny edge detection)
+B --> |No| E(Flip image)
+E --> D
