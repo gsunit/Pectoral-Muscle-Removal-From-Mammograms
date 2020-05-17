@@ -25,5 +25,8 @@ The Hough transform is a technique which can be used to isolate features of a pa
 - We can repeatedly apply this algorithm on such images, and try to chisel away remaining parts of the pectoral muscle in each iteration.
 - The parameters for the shortlisting lines have been chosen manually. However, they can be easily learned given a bigger dataset.
 
+> Give me a place to stand, and I shall move the earth. - Archimedes
+> Give me more data, and I can learn the parameters. - Me :)
+
 
 ### Please refer `pectoral-segmentation.ipynb` for the complete code. I have tried to explain each step as clearly as I could.
