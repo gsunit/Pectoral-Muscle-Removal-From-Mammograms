@@ -27,7 +27,7 @@ The Hough transform is a technique which can be used to isolate features of a pa
 
 > Give me a place to stand, and I shall move the earth. - Archimedes
 
-> Give me more data, and I can learn the parameters. - Me :)
+> Give me more data, and I shall learn the parameters. - Me :)
 
 
 ### Please refer `pectoral-segmentation.ipynb` for the complete code. I have tried to explain each step as clearly as I could.
