@@ -11,6 +11,12 @@ A mammogram is an X-ray picture of the breast. Doctors use a mammogram to look f
 ### Pectoral muscle
 Pectoral muscles (colloquially referred to as "pecs") are the muscles that connect the front of the human chest with the bones of the upper arm and shoulder. 
 
+### Canny edge detection
+Canny Edge Detection is a popular edge detection algorithm. Using Canny Edge Detector solely for pectoral muscle segmentation produces quite unsatisfactory results. Thus, we use hough transform line detection.
+
+### Hough Transfrom
+The Hough transform is a technique which can be used to isolate features of a particular shape within an image. Because it requires that the desired features be specified in some parametric form, the classical Hough transform is most commonly used for the detection of regular curves such as lines, circles, ellipses, etc.
+
 ## Algorithm
 <img src="https://github.com/gsunit/Pectoral-Muscle-Removal-From-Mammograms/blob/master/assets/algorithm-flowchart.png" alt="algorithm-screenshot" height="900"/>
 
