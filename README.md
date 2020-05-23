@@ -4,6 +4,14 @@
   <figcaption>Screenshot of the image processing algorithm from the Jupyter Notebook</figcaption>
 </figure>
 
+Pectoral segmentation is important as the pectoral muscle region and the breast region may have similar intensity or texture appearance.
+
+Both the the tumor cells and pectoral muscle region tend to be brighter (more dense) than the breast region in the mammogram.
+
+Thus, including the pectoral muscle region into breast density quantification may lead to inaccurate breast density estimation.
+
+Source: https://www.sciencedirect.com/science/article/pii/S1361841518301129
+
 ## Glossary
 ### Mammograms
 A mammogram is an X-ray picture of the breast. Doctors use a mammogram to look for early signs of breast cancer. The one shown above is called a mediolateral mammogram.
