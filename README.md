@@ -1,7 +1,6 @@
 # Pectoral Muscle Removal from Mammograms
 <figure>
   <img src="https://github.com/gsunit/Pectoral-Muscle-Removal-From-Mammograms/blob/master/assets/processing-screenshot.png" alt="algorithm-screenshot"/>
-  <figcaption>Screenshot of the image processing algorithm from the Jupyter Notebook</figcaption>
 </figure>
 
 Pectoral segmentation is important as the pectoral muscle region and the breast region may have similar intensity or texture appearance.
