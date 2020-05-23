@@ -39,4 +39,5 @@ The Hough transform is a technique which can be used to isolate features of a pa
 
 ### Please refer `pectoral-segmentation.ipynb` for the complete code. I have tried to explain each step as clearly as I could.
 
+### Consider giving a star if you like the documentation. 🌟🌟
 ### PRs welcome. ❤️😃
