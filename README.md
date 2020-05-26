@@ -49,7 +49,7 @@ The Hough transform is a technique which can be used to isolate features of a pa
   2. Assignment by [Suven Consultants and Technology Pvt. Ltd.](https://www.linkedin.com/company/suven-consultants-and-technology-pvt-ltd/)
   3. Paper: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6510623/
   4. Paper: https://core.ac.uk/download/pdf/82133766.pdf
-  5. [Computer Vision Basics: Hough Transform | By Dr. Ry @Stemplicity](https://www.youtube.com/watch?v=6yVMpaIoxIU)
+  5. Tutorial on Youtube: [Computer Vision Basics: Hough Transform | By Dr. Ry @Stemplicity](https://www.youtube.com/watch?v=6yVMpaIoxIU)
   6. Scikit-Image [Hough Transform tutorial](https://scikit-image.org/docs/dev/auto_examples/edges/plot_line_hough_transform.html)
 </details>
 
