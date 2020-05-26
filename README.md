@@ -13,7 +13,7 @@ Thus, including the pectoral muscle region into breast density quantification ma
 <figure>
   <img src="https://github.com/gsunit/Pectoral-Muscle-Removal-From-Mammograms/blob/master/assets/LinkedIn-Computer-Vision-Trending.png" alt="algorithm-screenshot"/ height="100" border="5">
 </figure>
-My post on LinkedIn displaying this project was trending in #computervision. I would like to thank the people in my LinkedIn network for showing their support.
+This was my first post on LinkedIn displaying a project. I woke up to this amazing notification on May 26, 2020. I would like to thank all those in my LinkedIn network for showing their support.
 
 
 ## Glossary
