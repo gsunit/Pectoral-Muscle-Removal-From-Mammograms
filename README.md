@@ -47,5 +47,8 @@ The Hough transform is a technique which can be used to isolate features of a pa
   
   1. [Github repo by @anoo6527](https://github.com/anoo6527/PectoralMuscle_Removal)
   2. Assignment by [Suven Consultants and Technology Pvt. Ltd.](https://www.linkedin.com/company/suven-consultants-and-technology-pvt-ltd/)
+  3. https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6510623/
+  4. https://core.ac.uk/download/pdf/82133766.pdf
+  5. [Computer Vision Basics: Hough Transform | By Dr. Ry @Stemplicity](https://www.youtube.com/watch?v=6yVMpaIoxIU)
 </details>
 
