@@ -8,9 +8,12 @@ Thus, including the pectoral muscle region into breast density quantification ma
   <img src="https://github.com/gsunit/Pectoral-Muscle-Removal-From-Mammograms/blob/master/assets/processing-screenshot.png" alt="algorithm-screenshot"/>
 </figure>
 
+## Trending in #computervision
+
 <figure>
-  <img src="https://github.com/gsunit/Pectoral-Muscle-Removal-From-Mammograms/blob/master/assets/LinkedIn-Computer-Vision-Trending.png" alt="algorithm-screenshot"/>
+  <img src="https://github.com/gsunit/Pectoral-Muscle-Removal-From-Mammograms/blob/master/assets/LinkedIn-Computer-Vision-Trending.png" alt="algorithm-screenshot"/ height="100" border="5">
 </figure>
+My post on LinkedIn displaying this project was trending in #computervision. I would like to thank the people in my LinkedIn network for showing their support.
 
 
 ## Glossary
