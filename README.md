@@ -3,11 +3,13 @@
   Pectoral segmentation is important as the pectoral muscle region and the breast region may have similar intensity or texture appearance. Both the the tumor cells and pectoral muscle region tend to be brighter (more dense) than the breast region in the mammogram.
 Thus, including the pectoral muscle region into breast density quantification may lead to inaccurate breast density estimation.
 </div>
+
 <figure>
   <img src="https://github.com/gsunit/Pectoral-Muscle-Removal-From-Mammograms/blob/master/assets/processing-screenshot.png" alt="algorithm-screenshot"/>
 </figure>
+
 <figure>
-  <img src="https://github.com/gsunit/Pectoral-Muscle-Removal-From-Mammograms/blob/master/assets/processing-screenshot.png" alt="algorithm-screenshot"/>
+  <img src="https://github.com/gsunit/Pectoral-Muscle-Removal-From-Mammograms/blob/master/assets/LinkedIn-Computer-Vision-Trending.png" alt="algorithm-screenshot"/>
 </figure>
 
 
